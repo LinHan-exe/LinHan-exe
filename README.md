@@ -1,5 +1,5 @@
 Hi, I’m Lin Han.
-I’m interested in learning Python and other Computer Languages.
-I'm Currently a High School Sophomore, doing programming as a hobby.
-
+I am a High School student attending a specialized highschool in NYC.
+I would love to learn new development languages like python and java. 
+Sometimes I do gamedev.
 
