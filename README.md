@@ -1,3 +1,4 @@
 Hi, I’m Lin Han! ||
 I'm a highschool student in NYC || 
-I'm currently learning Java, I have some experience in Lua 
+Currently learning Javascript, HTML, CSS ||
+I have experience in Lua and Java
